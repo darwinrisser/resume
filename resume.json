@@ -8,18 +8,8 @@
       "summary": "Front-end web developer with graphic design skills and a professional background in education. Looking for opportunities with room for a highly motivated developer to grow.",
       "phone": "(512) 508-5738",
       "location": {
-        "city": "Austin",{
-          "basics": {
-            "name": "Darwin Risser",
-            "label": "Front-End Web Developer, Teacher",
-            "picture": "https://secure.gravatar.com/avatar/04e62738f83b0cb05210097fe6fd696b",
-            "email": "risser.darwin@gmail.com",
-            "website": "darwinrisser.dev",
-            "summary": "Front-end web developer with graphic design skills and a professional background in education. Looking for opportunities with room for a highly motivated developer to grow.",
-            "phone": "(512) 508-5738",
-            "location": {
-              "city": "Austin",
-              "region": "Texas"
+        "city": "Austin",
+        "region": "Texas"
             },
             "profiles": [
               {
@@ -148,7 +138,7 @@
         {
           "network": "PDF Resume",
           "username": "Darwin Risser",
-          "url": "https://darwinrisser.github.io/DarwinRisser.pdf"
+          "url": "https://darwinrisser.dev/resume/DarwinRisser.pdf"
         },
         {
           "network": "GitHub",
@@ -163,128 +153,68 @@
         ],
     "work": [
       {
-        "company": "Austin Coding Academy",
-        "position": "Chief Technology Officer / Lead Instructor",
-        "website": "https://austincodingacademy.com",
-        "startDate": "2015-08-01",
-        "summary": "In charge of all things technical, authored curriculums, and taught web development courses to adult learners.",
+        "company": "Self Employed",
+        "position": "Freelance Musician and Clarinet Instructor",
+        "startDate": "2015-2019",
         "highlights": [
-          "Responsible for entire company software infrastructure",
-          "Created, maintained, and led interns and contributors on Campus Manager, our custom Learning Management System",
-          "Authored curriculums on HTML, CSS, JavaScript, Node.js, MongoDB",
-          "Developed workbooks with CI integration for linting",
-          "Maintained web presences for all four locations Austin, San Antonio, Houston, and Dallas",
-          "Built reporting infrastructure that combined data from multiple sources: Payments, CRM, LMS, etc. Ask me about YoSQL!",
-          "Implemented automation for web hooks, status checks, user events, reports, deployments, tests, etc.",
-          "Implementing/analyzing tracking services such as Google Analytics/Tag Manager, Facebook Pixel, click heatmaps, etc",
-          "SEO Optimization"
+          "I communicate weekly with parents (clients) regarding student progress and lesson scheduling",
+          "I provide a unique instructional setting to students with various ability levels and needs"
         ]
       },
       {
-        "company": "SkillsEngine",
-        "position": "Senior Software Engineer",
-        "website": "https://skillsengine.com",
-        "startDate": "2017-10-16",
-        "endDate": "2019-03-13",
+        "company": "qKids",
+        "position": "Teacher",
+        "startDate": "05-2018",
         "summary": "Develop web service around skill predicting and aligning machine-learning driven service",
         "highlights": [
-          "Work with modern web stack: React + Redux, Ruby on Rails",
-          "Agile environment and collaborative coding",
-          "Full Stack development, worked on all corners of the code base, services, and integrations"
-        ]
-      },
-      {
-        "company": "Continuum Analytics",
-        "position": "Software Engineer",
-        "website": "https://continuum.io",
-        "startDate": "2015-06-08",
-        "endDate": "2017-01-01",
-        "summary": "Bokeh contributor, an open-source python driven graph generator. Implemented and designed client-specific projects and solutions.",
-        "highlights": [
-          "Worked on https://anaconda.org, a packaging and environment manager repository",
-          "Contributed to open-source packages such as Bokeh (https://bokeh.pydata.org)",
-          "Fast-paced full-stack client-specific projects with modern web development stacks"
-        ]
-      },
-      {
-        "company": "Generation Ready",
-        "position": "Lead Software Engineer + Architect",
-        "website": "https://generationready.com",
-        "startDate": "2013-11-01",
-        "endDate": "2015-06-05",
-        "summary": "Designed, built, and maintained in-house internet software. Headed small team of web developers and quality assurance technicians.",
-        "highlights": [
-          "Flourished in a fast-paced, agile environment",
-          "Developed deep PHP and Javascript skills",
-          "Learned and implemented new technologies often"
+          "I teach English lessons remotely to students in China",
+          "I communicate with my employers efficiently despite time difference and language barriers"
         ]
       }
-    ],
+    ]
     "projects": [
       {
-        "name": "Campus Manager",
-        "description": "Learning Management System and Course Management Tool",
+        "name": "Developer Portfolio",
+        "description": "Personal Website so show some of my completed projects.",
         "highlights": [
-          "Learning Management System and Course Management Tool",
-          "Creator and current maintainer",
-          "Over 700 Users",
-          "Supports web hooks with Zapier",
-          "Powerful reporting engine",
-          "Built with MongoDB, Node.js, Express.js, Passport.js, Backbone.js, and React.js"
+          "Built with React and custom CSS designed by me."
         ],
         "keywords": [
-          "MongoDB",
-          "Node",
-          "Express",
-          "Passport",
-          "Backbone",
+          "HTML",
+          "CSS",
           "React"
         ],
-        "url": "https://github.com/AustinCodingAcademy/campus-manager",
-        "roles": [
-          "Creator",
-          "Maintainer"
-        ],
-        "entity": "Austin Coding Academy",
-        "type": "Web Application"
+        "url": "https://github.com/darwinrisser/darwinrisser.github.io"
       },
       {
-        "name": "AdFree.Life",
+        "name": "GoT Quiz",
         "highlights": [
-          "Adblocking as a Service",
-          "Sets up a pre-configured Pi-Hole on a dedicated VPS",
-          "Uses cron jobs to generate trials",
-          "Hit #11 on Hacker News! (https://news.ycombinator.com/item?id=14910683)",
-          "Registration currently disabled while licensing is figured out"
+          "Quiz style game built with React",
         ],
-        "keywords": [],
-        "url": "https://ad-free-life.herokuapp.com/",
-        "roles": ["Owner"],
-        "entity": "Startup",
-        "type": "SAAS"
-      },
-      {
-        "name": "YoSQL",
-        "highlights": [
-          "Converts NoSQL databases and JSON collections into SQL tables",
-          "Creator and current maintainer",
-          "Integrates with Zapier for web hook functionality",
-          "Save and share queries",
-          "API to integrate with any SPA frontend"
+        "keywords": [
+        "React",
+        "HTML",
+        "CSS"
         ],
-        "keywords": [],
-        "url": "https://github.com/kevincolten/yosql",
-        "roles": ["Creator"],
-        "entity": "Personal",
-        "type": "Library"
+        "url": "https://darwinrisser.dev/got-react"
       }
     ],
     "skills": [
       {
         "name": "Languages",
         "keywords":
-        [
-          "JavaScript/Node.js"
+        [ "JavaScript/Node.js",
+          "React",
+          "Redux",
+          "HTML",
+          "CSS",
+          "Express",
+          "MongoDB",
+          "Mongoose",
+          "RESTful API",
+          "Webpack",
+          "Git/Github",
+           "Heroku"
         ]
       },
       {
