@@ -4,17 +4,150 @@
       "label": "Front-End Web Developer, Teacher",
       "picture": "https://secure.gravatar.com/avatar/04e62738f83b0cb05210097fe6fd696b",
       "email": "risser.darwin@gmail.com",
-      "website": "https://darwinrisser.github.io/gh-pages/portfolio/",
+      "website": "darwinrisser.dev",
       "summary": "Front-end web developer with graphic design skills and a professional background in education. Looking for opportunities with room for a highly motivated developer to grow.",
       "phone": "(512) 508-5738",
       "location": {
-        "city": "Austin",
-        "region": "Texas"
-      },
+        "city": "Austin",{
+          "basics": {
+            "name": "Darwin Risser",
+            "label": "Front-End Web Developer, Teacher",
+            "picture": "https://secure.gravatar.com/avatar/04e62738f83b0cb05210097fe6fd696b",
+            "email": "risser.darwin@gmail.com",
+            "website": "darwinrisser.dev",
+            "summary": "Front-end web developer with graphic design skills and a professional background in education. Looking for opportunities with room for a highly motivated developer to grow.",
+            "phone": "(512) 508-5738",
+            "location": {
+              "city": "Austin",
+              "region": "Texas"
+            },
+            "profiles": [
+              {
+                "network": "PDF Resume",
+                "username": "Darwin Risser",
+                "url": "https://darwinrisser.dev/resume/DarwinRisser.pdf"
+              },
+              {
+                "network": "GitHub",
+                "username": "darwinrisser",
+                "url": "https://github.com/darwinrisser"
+              },
+              {
+                "network": "LinkedIn",
+                "username": "darwinrisser",
+                "url": "https://www.linkedin.com/in/darwinrisser/"
+              }
+              ]
+          },
+          "work": [
+            {
+              "company": "Self Employed",
+              "position": "Freelance Musician and Clarinet Instructor",
+              "startDate": "2015-2019",
+              "highlights": [
+                "I communicate weekly with parents (clients) regarding student progress and lesson scheduling",
+                "I provide a unique instructional setting to students with various ability levels and needs"
+              ]
+            },
+            {
+              "company": "qKids",
+              "position": "Teacher",
+              "startDate": "05-2018",
+              "summary": "Develop web service around skill predicting and aligning machine-learning driven service",
+              "highlights": [
+                "I teach English lessons remotely to students in China",
+                "I communicate with my employers efficiently despite time difference and language barriers"
+              ]
+            }
+          ],
+          "projects": [
+            {
+              "name": "Developer Portfolio",
+              "description": "Personal Website so show some of my completed projects.",
+              "highlights": [
+                "Built with React and custom CSS designed by me."
+              ],
+              "keywords": [
+                "HTML",
+                "CSS",
+                "React"
+              ],
+              "url": "https://github.com/darwinrisser/darwinrisser.github.io"
+            },
+            {
+              "name": "GoT Quiz",
+              "highlights": [
+                "Quiz style game built with React",
+              ],
+              "keywords": [
+              "React",
+              "HTML",
+              "CSS"
+              ],
+              "url": "https://darwinrisser.dev/got-react"
+            }
+          ],
+          "skills": [
+            {
+              "name": "Languages",
+              "keywords":
+              [
+                "JavaScript/Node.js",
+                "React",
+                "Redux",
+                "HTML",
+                "CSS",
+                "Express",
+                "MongoDB",
+                "Mongoose",
+                "RESTful API",
+                "Webpack",
+                "Git/Github",
+                 "Heroku"
+              ]
+            },
+            {
+              "name": "Web Development",
+              "keywords": [
+                "HTML/CSS",
+                "JavaScript/jQuery",
+                "Express/Node.js",
+                "Backbone/React + Redux",
+                "Rails",
+                "Laravel",
+                "Bootstrap/Foundation/Material",
+                "MongoDB",
+                "MySQL/Postgres/Sqlite",
+                "Authorization/Authentication",
+                "Responsive/Mobile Development",
+                "Bokeh/Bokeh Server",
+                "Grunt/Gulp/Webpack",
+                "SASS/LESS/UglifyJS"
+              ]
+            },
+            {
+              "name": "Technologies",
+              "keywords": [
+                "Continuous Integration",
+                "Automated Deployment",
+                "Automated Testing",
+                "AWS/Heroku/DigitalOcean",
+                "Heroku/Build Packs",
+                "Git/GitHub",
+                "Grunt/Gulp/WebPack",
+                "REST APIs",
+                "Automated SSL Certificates",
+                "Data Visualization"
+              ]
+            }
+          ]
+        },
+        "region": "Texas",
+      
       "profiles": [
         {
           "network": "PDF Resume",
-          "username": "Kevin Colten",
+          "username": "Darwin Risser",
           "url": "https://darwinrisser.github.io/DarwinRisser.pdf"
         },
         {
@@ -27,8 +160,7 @@
           "username": "darwinrisser",
           "url": "https://www.linkedin.com/in/darwinrisser/"
         }
-        ]
-    },
+        ],
     "work": [
       {
         "company": "Austin Coding Academy",
@@ -152,15 +284,7 @@
         "name": "Languages",
         "keywords":
         [
-          "JavaScript/Node.js",
-          "Ruby",
-          "PHP",
-          "Python",
-          "SQL",
-          "NoSQL",
-          "Bash",
-          "Linux",
-          "C#"
+          "JavaScript/Node.js"
         ]
       },
       {
@@ -169,32 +293,19 @@
           "HTML/CSS",
           "JavaScript/jQuery",
           "Express/Node.js",
-          "Backbone/React + Redux",
-          "Rails",
-          "Laravel",
+          "React + Redux",
           "Bootstrap/Foundation/Material",
           "MongoDB",
-          "MySQL/Postgres/Sqlite",
           "Authorization/Authentication",
           "Responsive/Mobile Development",
-          "Bokeh/Bokeh Server",
-          "Grunt/Gulp/Webpack",
-          "SASS/LESS/UglifyJS"
-        ]
+          "Webpack"        ]
       },
       {
         "name": "Technologies",
         "keywords": [
-          "Continuous Integration",
-          "Automated Deployment",
-          "Automated Testing",
-          "AWS/Heroku/DigitalOcean",
           "Heroku/Build Packs",
           "Git/GitHub",
-          "Grunt/Gulp/WebPack",
-          "REST APIs",
-          "Automated SSL Certificates",
-          "Data Visualization"
+          "REST APIs"
         ]
       }
     ]
